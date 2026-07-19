@@ -1,0 +1,38 @@
+{
+  "project": "pons.family launchpad",
+  "network": "Robinhood Chain",
+  "factory": "0xA5aAb3F0c6EeadF30Ef1D3Eb997108E976351feB",
+  "contractName": "PonsLaunchFactory",
+  "language": "solidity",
+  "compiler": "0.8.30",
+  "optimizer": {
+    "enabled": true,
+    "runs": 300
+  },
+  "evmVersion": "cancun",
+  "sources": [
+    "contracts/src/PonsLaunchFactory.sol",
+    "contracts/src/PonsLauncherToken.sol",
+    "contracts/src/interfaces/ILaunchpad.sol",
+    "contracts/src/libraries/PonsLiquidityMath.sol",
+    "contracts/src/libraries/PonsTickMath.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/access/Ownable2Step.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/interfaces/IERC1363.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/interfaces/IERC165.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/interfaces/IERC20.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/interfaces/IERC20Metadata.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/token/ERC20/utils/SafeERC20.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/utils/Panic.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/utils/ReentrancyGuard.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/utils/StorageSlot.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/utils/math/Math.sol",
+    "contracts/lib/openzeppelin-contracts/contracts/utils/math/SafeCast.sol"
+  ]
+}
