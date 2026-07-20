@@ -3,7 +3,7 @@
 
 > *"Every protocol needs one launch that teaches all the others."*
 
-**Contract Address (CA):** `0x0000000000000000000000000000000000000000`
+**Contract Address (CA):** `0x6f9b7975430055973734c27d2ddfba2a2a7b13ef`
 
 > ⚠️ **This is a documentation and test token.**
 
