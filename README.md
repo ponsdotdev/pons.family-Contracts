@@ -2,7 +2,7 @@
 
 Smart contracts that power the [pons.family](https://pons.family/launchpad) token launchpad on Robinhood Chain.
 
-**Deployed factory **
+**Deployed factory ca**
 
 `0xA5aAb3F0c6EeadF30Ef1D3Eb997108E976351feB`
 
