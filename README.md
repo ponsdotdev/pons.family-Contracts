@@ -1,6 +1,6 @@
 # Pons Launchpad Contracts
 
-Smart contracts that power the [pons.family](https://pons.family/launchpad) token launchpad on Robinhood Chain.
+Smart contracts that power the ponsfamily.com token launchpad on Robinhood Chain.
 
 **Deployed factory**
 
@@ -14,7 +14,7 @@ This repository is the Solidity source for that deployment: a CREATE2 factory th
 |------|-------|
 | Language | Solidity `^0.8.30` |
 | Chain | Robinhood Chain (EVM L2) |
-| Product | [pons.family launchpad](https://pons.family/launchpad) |
+| Product | ponsfamily.com |
 | Factory | `0xA5aAb3F0c6EeadF30Ef1D3Eb997108E976351feB` |
 | Access control | OpenZeppelin `Ownable2Step` |
 | Safety | OpenZeppelin `ReentrancyGuard`, `SafeERC20` |
