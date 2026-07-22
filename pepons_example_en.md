@@ -3,7 +3,7 @@
 
 > *"Green. Motionless. Impossible to rug — mostly because nothing about it ever moves fast enough to get caught."*
 
-**Contract Address (CA):** `0x0000000000000000000000000000000000000000`
+**Contract Address (CA):** `0xd2a577e92438fd0c1f2485f4fb91b9f866eb1e6c`
 
 > ⚠️ **This is a documentation and test token. No holder utility. No promises. No lily pads included.**
 
