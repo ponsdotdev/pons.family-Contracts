@@ -11,7 +11,7 @@ This repository is the Solidity source for that deployment: a CREATE2 factory th
 ## Stack 
    
 | Item | Value |
-|------|-------|
+|------|-------| 
 | Language | Solidity `^0.8.30` |
 | Chain | Robinhood Chain (EVM L2) |
 | Product | ponsfamily.com |
