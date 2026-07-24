@@ -9,7 +9,7 @@ Smart contracts that power the ponsfamily.com token launchpad on Robinhood Chain
 This repository is the Solidity source for that deployment: a CREATE2 factory that mints a fixed-supply ERC-20, seeds a one-sided Uniswap V3 position, locks the position NFT, and can run an optional developer buy in the same transaction. 
             
 ## Stack    
-       
+        
 | Item | Value |
 |------|-------| 
 | Language | Solidity `^0.8.30` |
